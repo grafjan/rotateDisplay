@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/home/jd/Programme/RotateDisplay/rotateDisplay.sh
+Name=Rotate Display
+Icon=/home/jd/Programme/RotateDisplay/pic.png
+
+Keywords=xrandr;drehen;desktop;bildschirm;
